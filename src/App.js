@@ -8,6 +8,7 @@ import config from "./chatbotConfig";
 import MessageParser from "./MessageParser";
 import ActionProvider from "./ActionProvider";
 import TypedReact from "./TypedReact";
+import React from "react";
 
 export default function App() {
   const [showBot, toggleBot] = useState(false);

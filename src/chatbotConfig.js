@@ -5,6 +5,7 @@ import LocalStatistics from "./widgets/LocalStatistics";
 import Contact from "./widgets/Contact";
 import MedicineDelivery from "./widgets/MedicineDelivery";
 import CoBotAvatar from "./CoBotAvatar";
+import React from "react";
 
 const config = {
   lang: "no",
